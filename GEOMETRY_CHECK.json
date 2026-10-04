@@ -1,0 +1,16 @@
+{
+  "sourceFeatures": 5273,
+  "municipalities": 41,
+  "validCoverage": false,
+  "adjacencyPreserved": true,
+  "coastPreserved": true,
+  "polygonCountsPreserved": true,
+  "originalVertices": 485871,
+  "outputVertices": 485871,
+  "toleranceDegrees": 0,
+  "coastMetadataCorrection": {
+    "id": "47350",
+    "coastal": false,
+    "reason": "Source micro-cracks; verified against OCVB official southern-area guide. Geometry unchanged."
+  }
+}
